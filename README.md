@@ -61,5 +61,7 @@ In this project, my primary responsibilities include backend development, where 
 TradeMirrorFX represents a significant advancement in the realm of copy trading by providing a comprehensive platform that bridges various trading environments. With its focus on user engagement, real-time performance tracking, and cryptocurrency payment options, it positions itself as a leader in the evolving landscape of social trading solutions.
 
 ## Live Version Link
-https://trademirrorfx.com
+https://app.trademirrorfx.com
 
+## Code Privacy
+The code repository is not publicly accessible as the project is currently live and maintained privately.
