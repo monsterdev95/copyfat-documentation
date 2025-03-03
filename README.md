@@ -31,9 +31,7 @@ To understand how TradeMirrorFX works, watch our workflow video:
 <table>
   <tr>
     <td align = "center">
-      <video width="640" height="480" controls>
-        <source src="./assets/trademirrorfx-copytrading-mt5-mt4-tradelocker.mp4" type="video/mp4">
-      </video>
+      <img src="https://raw.githubusercontent.com/monsterdev95/trademirrorfx-documentation/main/assets/trademirrorfx-copytrading-mt5-mt4-tradelocker.gif" />
     </td>
   </tr>
 </table>
